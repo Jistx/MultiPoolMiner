@@ -1261,3 +1261,5 @@ This is not a fault of MultiPoolMiner and nothing can be done on our end. Please
 ###### **BTC/day:** Estimated Bitcoin earnings per day
 
 ###### *The monitoring service can change, evolve, be unavailable any time without prior notice. The contents of the database will NOT be shared with any third-parties but we reserve the right to create metrics out of it and use its contents to improve or promote our services and MultiPoolMiner. Credits to @grantemsley for the codebase.*
+
+
